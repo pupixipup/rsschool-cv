@@ -45,7 +45,7 @@ I have some experience of creating websites as a freelancer. Even though I am no
 
 * BFU (Baltic Federal University, Polish philology, 2020-2021)
 * Jönköping University (New Media Design, 2021 - 2024)
-* Programming videos on YouTuzbe
+* Programming videos on YouTube
 
 ---
 ## English
