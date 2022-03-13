@@ -20,7 +20,7 @@ I've spent whole my life in Russia, Kaliningrad. Now I am 19 years old and i am 
 * GULP, Prepros
 * JavaScript
 * Git, GitHub
-* Figma, Adobe XD
+
 ---
 ## Example of code
 
