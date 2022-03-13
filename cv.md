@@ -50,6 +50,7 @@ I have some experience of creating websites as a freelancer. Even though I am no
 ---
 ## English
 
+* C1 courses at university
 * IELTS Academic 7.0 (C1)
 * English-speaking tuition at the university
 
