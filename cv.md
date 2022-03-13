@@ -11,8 +11,10 @@ I've spent whole my life in Russia, Kaliningrad. Now I am 19 years old and i am 
 
  * [VK (/yahontovievimoi)](https://vk.com/yahontovievimoi)
  * [Telegram (@RomasBitinas)](https://t.me/RomasBitinas)
- * [Instagram (@sanndreascitizen)](https://www.instagram.com/sanndreascitizen/)
  * [Facebook (Romas Bitinas)](https://www.facebook.com/romas.bitinas.9/)
+ * [Instagram (@sanndreascitizen)](https://www.instagram.com/sanndreascitizen/)
+
+ 
 ---
 ## Skills
 * CSS3, SASS, SCSS
