@@ -7,14 +7,22 @@
 I've spent whole my life in Russia, Kaliningrad. Now I am 19 years old and i am student of Jönköping University (Sweden). This is my first year of studying at the program New Media Design (Web-design and Web-development).
 
 ---
-### Contacts
+## Contacts
 
  * [VK (/yahontovievimoi)](https://vk.com/yahontovievimoi)
  * [Telegram (@RomasBitinas)](https://t.me/RomasBitinas)
  * [Instagram (@sanndreascitizen)](https://www.instagram.com/sanndreascitizen/)
  * [Facebook (Romas Bitinas)](https://www.facebook.com/romas.bitinas.9/)
 ---
-### Example of code
+## Skills
+* CSS3, SASS, SCSS
+* HTML, PUG
+* GULP, Prepros
+* JavaScript
+* Git, GitHub
+* Figma, Adobe XD
+---
+## Example of code
 
 **Simple Pig Latin (Kata 5)**
 ```
