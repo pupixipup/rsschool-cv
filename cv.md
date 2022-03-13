@@ -2,7 +2,7 @@
 
 ## Dreaming Junior Front-end developer
 ---
-## About me
+### About me
 
 I've spent whole my life in Russia, Kaliningrad. Now I am 19 years old and i am student of Jönköping University (Sweden). This is my first year of studying at the program New Media Design (Web-design and Web-development).
 
@@ -14,7 +14,7 @@ I've spent whole my life in Russia, Kaliningrad. Now I am 19 years old and i am 
  * [Facebook (Romas Bitinas)](https://www.facebook.com/romas.bitinas.9/)
  * [Instagram (@sanndreascitizen)](https://www.instagram.com/sanndreascitizen/)
 
- 
+
 ---
 ## Skills
 * CSS3, SASS, SCSS
